@@ -1,0 +1,54 @@
+*{
+    box-sizing:border-box ;
+}
+html{
+    font-size:10px ;
+}
+body{
+    margin: 0 ;
+}
+/*****************************le main*********************************/
+main{
+    margin-top:10rem ;
+}
+.titre-col-1 h1{
+text-align: center; 
+font-size:4rem ;
+}
+.container{
+margin:0  auto ;
+ border:2px solid rgb(128,128,128) ;
+ font-size:20px; 
+ padding-top:12px ; 
+ padding-bottom:10px;
+ padding:30px;
+ width: 600px ;
+}
+input[type="text"]{
+    height:25px ;
+}
+/* *******************************les buttons **********************/
+#btn{
+    background-color: orange ;
+    color:white ;
+    padding:5px; 
+    border-radius: 10px ;
+}
+/***************************************Le footer********************************************/
+footer{
+    text-align:center ;
+}
+.weatherInformation{
+    font-size:20px;
+    letter-spacing: .2rem ;
+}
+.OpenWeatherMap{
+    font-size:20px ;
+    color:rgb(255,168,81) ;
+    letter-spacing: .2rem;
+    font-weight:bold;
+}
+
+
+
+
